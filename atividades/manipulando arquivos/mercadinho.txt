@@ -1,0 +1,8 @@
+Usuário: diego
+------------------------------
+PRODUTOS COMPRADOS:
+- Arroz: R$ 7.99
+- feijao: R$ 6.99
+- macarrão: R$ 4.50
+------------------------------
+TOTAL: R$ 19.48
