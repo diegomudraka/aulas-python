@@ -1,0 +1,44 @@
+[
+    {
+        "id": 30,
+        "nome": "A Hora da Estrela",
+        "descricao": "O ultimo romance de Clarice Lispector",
+        "preco": "29.90",
+        "em estoque": "17"
+    },
+    {
+        "id": 31,
+        "nome": "O Silmarilion",
+        "descricao": "Mitos e lendas da criação da Terra Media",
+        "preco": 69.9,
+        "em estoque": 12
+    },
+    {
+        "id": 32,
+        "nome": "Fundação",
+        "descrição": "Classico da ficção cientifica de Issac Asimov",
+        "preco": 49.9,
+        "em estoque": 8
+    },
+    {
+        "id": 33,
+        "nome": "O Sol é para todos",
+        "descrição": "Romance sobre igualdade e intuição moral",
+        "preco": 41.5,
+        "em estoque": 14
+    },
+    {
+        "id": 34,
+        "nome": "Frankstein",
+        "descrição": "Classico do terror e ficção cientifica",
+        "preco": 45.9,
+        "em estoque": 12
+    },
+    {
+        "id": 35,
+        "nome": "O Apfabeiro de Auschwitz",
+        "descrição": "Historia real sobre amor e sobreviviencia",
+        "preco": 45.9,
+        "em estoque": 6
+    }
+]
