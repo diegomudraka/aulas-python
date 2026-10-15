@@ -1,0 +1,102 @@
+[
+    {
+        "cargo": "Analista de Sistemas",
+        "cep": "71692448",
+        "cidade": "Brasília",
+        "estado": "Distrito Federal",
+        "id": 1,
+        "nome": "Ana Souza",
+        "salario": 4200.0,
+        "tempoEmpresa": 3
+    },
+    {
+        "cargo": "Técnico de Suporte",
+        "cep": "80010000",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "id": 2,
+        "nome": "Diego Santos",
+        "salario": 3200.0,
+        "tempoEmpresa": 4
+    },
+    {
+        "cargo": "Desenvolvedor Python",
+        "cep": "60000000",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "id": 3,
+        "nome": "Felipe Rocha",
+        "salario": 4800.0,
+        "tempoEmpresa": 3
+    },
+    {
+        "cargo": "Gerente de Projetos",
+        "cep": "20040002",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "id": 4,
+        "nome": "Gabriela Alves",
+        "salario": 7500.0,
+        "tempoEmpresa": 8
+    },
+    {
+        "cargo": "Analista Financeiro",
+        "cep": "73499899",
+        "cidade": "Brasília",
+        "estado": "Distrito Federal",
+        "id": 5,
+        "nome": "Karen Ribeiro",
+        "salario": 3600.0,
+        "tempoEmpresa": 3
+    },
+    {
+        "cargo": "Administrador de Banco de Dados",
+        "cep": "65000000",
+        "cidade": "São Luís",
+        "estado": "MA",
+        "id": 6,
+        "nome": "Nicolas Pereira",
+        "salario": 5900.0,
+        "tempoEmpresa": 5
+    },
+    {
+        "cargo": "Product Owner",
+        "cep": "70910900",
+        "cidade": "Brasília",
+        "estado": "Distrito Federal",
+        "id": 7,
+        "nome": "Olivia Barros",
+        "salario": 7200.0,
+        "tempoEmpresa": 6
+    },
+    {
+        "cargo": "Desenvolvedor Front-end",
+        "cep": "70040020",
+        "cidade": "Brasília",
+        "estado": "Distrito Federal",
+        "id": 8,
+        "nome": "Pedro Nunes",
+        "salario": 4600.0,
+        "tempoEmpresa": 3
+    },
+    {
+        "cargo": "QA Tester",
+        "cep": "78000000",
+        "cidade": "Cuiabá",
+        "estado": "MT",
+        "id": 9,
+        "nome": "Quezia Almeida",
+        "salario": 3700.0,
+        "tempoEmpresa": 4
+    },
+    {
+        "cargo": "Coordenador de TI",
+        "cep": "66000000",
+        "cidade": "Belém",
+        "estado": "PA",
+        "id": 10,
+        "nome": "Thiago Moreira",
+        "salario": 8000.0,
+        "tempoEmpresa": 9
+    }
+]
