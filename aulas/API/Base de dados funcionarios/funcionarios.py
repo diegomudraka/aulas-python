@@ -38,7 +38,7 @@ nome_arquivo = "dados_funcionarios_atualizados.json"
 with open(nome_arquivo, "w", encoding="utf-8") as arquivo:
     json.dump(lista_funcionarios, arquivo, ensure_ascii=False, indent=4)
 
-print(f"🎉 Todos os dados foram atualizados e salvos em '{nome_arquivo}'.")
+print(f"Todos os dados foram atualizados e salvos em '{nome_arquivo}'.")
 
 # inserir dados onde estiver algum dado vazio
 # no cep, apenas aceitar CEPS válidos
